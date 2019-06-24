@@ -1,0 +1,28 @@
+GtkButton{
+    background-image: none;
+}
+#search_Btn{
+    color: white;
+    background-color: #f4bc42;
+}
+#lookup_Btn{
+    background-color: #1D8348;
+    color: white;
+}
+#exit_Btn{
+    background-color: #C0392B;
+    color: white;
+}
+
+#search_Btn:hover{
+    background-color: #FFC300;
+    color: white;
+}
+#lookup_Btn:hover{
+    background-color: green;
+    color: white;
+}
+#exit_Btn:hover{
+    background-color: #C72A00;
+    color: white;
+}
